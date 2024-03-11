@@ -1,3 +1,4 @@
+# file path/types that are not added to the repo with a merge
 **/bin/
 **/obj/
 **/target/
